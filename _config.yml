@@ -2,16 +2,16 @@
 
 # Setup
 title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
+tagline:             'Personal writing.'
+description:         ''
+url:                 'http://yngtodd.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              M. Todd Young 
+  url:               
+  email:             youngmt1@ornl.gov
 
 # Permalinks
 
@@ -48,5 +48,3 @@ exclude:
 
 # Theme
 theme: "ed."
-
-
